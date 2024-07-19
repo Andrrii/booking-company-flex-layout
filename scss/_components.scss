@@ -123,4 +123,11 @@
     height: 1.75rem;
     fill: currentColor;
   }
+
+  &__legal {
+    font-size: 1.2rem;
+    color: var(--color-grey-light-4);
+    text-align: center;
+    padding: 2.5rem;
+  }
 }
