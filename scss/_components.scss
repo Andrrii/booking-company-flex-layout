@@ -163,3 +163,11 @@
     padding: 2.5rem;
   }
 }
+
+.gallery {
+  display: flex;
+
+  &__item {
+    flex: 1;
+  }
+}
